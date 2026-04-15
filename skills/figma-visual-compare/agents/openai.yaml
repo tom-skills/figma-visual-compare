@@ -1,0 +1,7 @@
+interface:
+  display_name: "Figma Visual Compare"
+  short_description: "Compare UI against Figma with exact diff artifacts"
+  default_prompt: "Use $figma-visual-compare to compare this implementation against a Figma node and report the main visual mismatches."
+
+policy:
+  allow_implicit_invocation: true
