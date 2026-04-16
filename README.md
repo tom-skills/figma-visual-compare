@@ -230,28 +230,6 @@ figma-visual-compare-skill/
             └── agents/
                 └── AGENTS.md
 ```
-
----
-
-## `skills.sh` Public Page
-
-This repository follows the `skill` CLI structure requirements:
-
-- Contains `skills/<skill-name>/SKILL.md`
-- `SKILL.md` frontmatter `name` matches the directory name
-
-Install source URL:
-```
-https://github.com/gh286991/figma-visual-compare
-```
-
-Public skill page (once indexed):
-```
-https://skills.sh/gh286991/figma-visual-compare/figma-visual-compare
-```
-
-> Being installable by the `skill` CLI does not automatically mean the skill appears on the `skills.sh` public page. Public visibility depends on the site's indexing state.
-
 ---
 
 ## License

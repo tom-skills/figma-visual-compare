@@ -200,3 +200,9 @@ skills/figma-visual-compare/adapters/cursor/figma-visual-compare.md
 | Codex | `~/.codex/skills/` 或 `npx skill add` |
 | Cursor | `.cursor/skills/` adapter |
 | AGENTS 類工具 | `AGENTS.md` adapter |
+
+---
+
+## License
+
+See [LICENSE](LICENSE) for details.
